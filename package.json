@@ -1,0 +1,23 @@
+{
+  "name": "simple-react-parallax-effect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/Parallax.js",
+  "scripts": {
+    "build": "babel src --out-dir dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^13.4.19",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.22.15",
+    "@babel/core": "^7.22.20",
+    "@babel/preset-env": "^7.22.20",
+    "@babel/preset-react": "^7.22.15"
+  }
+}
